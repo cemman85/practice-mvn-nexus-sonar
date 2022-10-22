@@ -10,7 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 
 		string name = "chibuzo";
-		systrem.out.println(name);
+		system.out.println(name);
 
 		Intger age = "20"
 		system.out.println(age + 5)	}
